@@ -1,1 +1,5 @@
-
+Prompt,Response,Clarity,Accuracy,Tone,Completeness,Instruction-Following,Safety Awareness,Overall Score,Notes
+Prompt 1,Response A,5,5,5,4,5,5,29,Professional and complete
+Prompt 1,Response B,2,3,2,2,2,5,16,Too informal and incomplete
+Prompt 2,Response A,5,5,4,4,5,5,28,Clear and accurate
+Prompt 2,Response B,2,2,3,1,2,5,15,Too vague and limited
